@@ -1,6 +1,6 @@
 name: mediasoup_client_flutter
 description: Mediasoup client side Flutter library. Work for Android, iOS, MacOS, Windows and browser.
-version: 0.8.5+4
+version: 0.8.5+5
 homepage: https://github.com/Blancduman/mediasoup-client-flutter
 repository: folk https://github.com/Blancduman/mediasoup-client-flutter
 publish_to: none
@@ -15,7 +15,7 @@ dependencies:
   flutter_webrtc:
     git:
       url: https://github.com/dattt104/flutter_webrtc.git
-      ref: 0.9.36+2
+      ref: 0.9.37
   events2: ^1.0.0
   sdp_transform: ^0.3.2
   collection: ^1.17.1

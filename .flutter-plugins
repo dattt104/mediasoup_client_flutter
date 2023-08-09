@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-flutter_webrtc=/Users/dattran/.pub-cache/git/flutter_webrtc-533d09ef13e173c486773ec08d654c3f1a5a6ac3/
-path_provider=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider-2.0.15/
-path_provider_android=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27/
-path_provider_foundation=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.4/
-path_provider_linux=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.11/
-path_provider_windows=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.7/
+flutter_webrtc=/Users/dattran/.pub-cache/git/flutter_webrtc-89e70db8c5275c48a253f39d23f766e51eb0a12d/
+path_provider=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider-2.1.0/
+path_provider_android=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
+path_provider_foundation=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
+path_provider_linux=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
+path_provider_windows=/Users/dattran/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/

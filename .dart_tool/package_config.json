@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-62.0.0",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-63.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/analyzer-6.0.0",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/analyzer-6.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -62,12 +62,6 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "dart_internal",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/dart_internal-0.2.8",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "dart_webrtc",
       "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/dart_webrtc-1.1.1",
       "packageUri": "lib/",
@@ -81,9 +75,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/ffi-2.0.2",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "file",
@@ -99,7 +93,7 @@
     },
     {
       "name": "flutter_webrtc",
-      "rootUri": "file:///Users/dattran/.pub-cache/git/flutter_webrtc-533d09ef13e173c486773ec08d654c3f1a5a6ac3/",
+      "rootUri": "file:///Users/dattran/.pub-cache/git/flutter_webrtc-89e70db8c5275c48a253f39d23f766e51eb0a12d/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -195,37 +189,37 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider-2.0.15",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.4",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.11",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.0.6",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.7",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -243,9 +237,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.5",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "pool",
@@ -339,7 +333,7 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/test-1.24.4",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/test-1.24.6",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -351,7 +345,7 @@
     },
     {
       "name": "test_core",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/test_core-0.5.4",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/test_core-0.5.6",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -369,7 +363,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/vm_service-11.8.0",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/vm_service-11.9.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -399,13 +393,13 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/win32-5.0.5",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/win32-5.0.6",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/xdg_directories-1.0.1",
+      "rootUri": "file:///Users/dattran/.pub-cache/hosted/pub.dev/xdg_directories-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -422,7 +416,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-07-26T03:23:02.774776Z",
+  "generated": "2023-08-09T09:02:07.978647Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }

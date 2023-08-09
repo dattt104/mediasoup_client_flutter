@@ -1,7 +1,11 @@
 # Changelog
 
 --------------------------------------------
-[0.8.5+4] - 18.17.2023
+[0.8.5+5] - 09.08.2023
+
+* bump version of flutter_webrtc, pubspec: 0.9.37
+
+[0.8.5+4] - 17.07.2023
 
 * bump version of flutter_webrtc, pubspec: 0.9.36+2
 
